@@ -423,7 +423,7 @@ header.shadow #search-icon {
         padding: 4px;
     }
 }
-@media (max-width: 727px) {
+@media (max-width: 730px) {
     .heading span {
         font-size: 0.9rem;
     }
